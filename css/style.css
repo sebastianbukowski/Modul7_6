@@ -6,13 +6,13 @@
 
 body {
   font-size: 18px;
-  background-color: lightgrey;
+  background-color: white;
   padding: 40px;
 }
 
 .container {
   margin: 0 auto;
-  background-color: grey;
+  background-color: yellow;
   border: 2px solid white;
   border-radius: 20px;
   width: 60%;
@@ -56,7 +56,7 @@ section a {
   background-color: white;
   border: 1px solid green;
   border-radius: 10px;
+  display: -ms-flexbox;
   display: flex;
 }
-
 /*# sourceMappingURL=style.css.map */
